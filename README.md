@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Riyaz
+### Hi there 👋, myself Riyaz
 #### I am Application developer
 I am an app developer with a passion for creating innovative solutions to solve real world problems. My experience spans across multiple platforms and technologies, with proficiency in developing mobile applications for both iOS and Android devices.
 
